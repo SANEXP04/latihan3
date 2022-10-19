@@ -92,7 +92,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
   ![Screenshot (15)](https://user-images.githubusercontent.com/115678077/196754632-43c80da3-3cf1-4b45-8df7-2a6d35b9e3dd.png)
 
 
--  Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
+-  Selesai Jika ingin melihat hasilnya cek di laman github arahkan ke repositorinya
   
 #### **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas**. 
  
