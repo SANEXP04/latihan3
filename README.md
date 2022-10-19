@@ -58,7 +58,7 @@
    ![Screenshot (7)](https://user-images.githubusercontent.com/115678077/196105249-32aa3e23-b93d-4787-8b4f-a167ae7c7171.png)
 
 
--  Lalu buat 1 file baru bernama README.md, dengan memasukan perintah echo “#lab_pemrograman1” >> README.md. Lalu untuk melihat file ketik perintah “ls 
+-  Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#lab_pemrograman1” >> README.md. Lalu untuk melihat file ketik perintah “ls 
 
     ![Screenshot (8)](https://user-images.githubusercontent.com/115678077/196107442-533ef8f2-a381-42f7-9742-130cb1856673.png)
 
@@ -83,7 +83,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
  ##### _Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository_
 
-- Untuk  mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub.
+- Untuk  mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan username dan pasword github.
    ![Screenshot (15)](https://user-images.githubusercontent.com/115678077/196754580-b2b4e7f3-cb86-4a49-bf35-77802f21c5fc.png)
 
  ##### _Cara penggunaan git dengan perintah dasar  git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever._
