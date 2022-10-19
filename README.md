@@ -58,7 +58,7 @@
    ![Screenshot (7)](https://user-images.githubusercontent.com/115678077/196105249-32aa3e23-b93d-4787-8b4f-a167ae7c7171.png)
 
 
--  Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#lab_pemrograman1” >> README.md. Lalu untuk melihat file ketik perintah “ls 
+-  Lalu buat 1 file baru bernama README.md, dengan memasukan perintah echo “#lab_pemrograman1” >> README.md. Lalu untuk melihat file ketik perintah “ls 
 
     ![Screenshot (8)](https://user-images.githubusercontent.com/115678077/196107442-533ef8f2-a381-42f7-9742-130cb1856673.png)
 
@@ -88,7 +88,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
  ##### _Cara penggunaan git dengan perintah dasar  git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever._
 
-- Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/SANEXP04/latihan3.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah _“ls -1"_
+- Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/SANEXP04/latihan3.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah _“ls -l"_
   ![Screenshot (15)](https://user-images.githubusercontent.com/115678077/196754632-43c80da3-3cf1-4b45-8df7-2a6d35b9e3dd.png)
 
 
